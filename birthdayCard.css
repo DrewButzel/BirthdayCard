@@ -4,6 +4,7 @@ body{
 }
 h1{
     font-family: 'Times New Roman';
+    font-size: 40pt;
 }
 .coverH1{
     font-weight: bold;
@@ -25,7 +26,7 @@ img{
 }
 p{
     font-family: fantasy;
-    font-size: 20pt;
+    font-size: 28pt;
     color: darkgoldenrod;
 }
 a{
