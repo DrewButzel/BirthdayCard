@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(14, 120, 181);
+    text-align: center;
+}
+h1{
+    font-family: 'Times New Roman';
+}
+.coverH1{
+    font-weight: bold;
+    color: rgba(190, 2, 2, 0.733);
+    text-decoration: underline;
+}
+button{
+    background-color: rgb(57, 186, 6);
+    font-size: 24pt;
+    padding: 10px;
+}
+.insideH1{
+    color: purple;
+    font-weight: bold;
+}
+img{
+    width: 300pt;
+    max-height: 400pt;
+}
+p{
+    font-family: fantasy;
+    font-size: 20pt;
+    color: darkgoldenrod;
+}
